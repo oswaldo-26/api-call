@@ -13,9 +13,9 @@ Before running the project, make sure the following are installed:
 
 ---
 Local Setup Instructions
-##Step 1: Clone the Repository and Navigate Inside##
-        git clone <https://github.com/oswaldo-26/api-call>
-        cd <api-call>  
+**Step 1: Clone the Repository and Navigate Inside**
+        - git clone <https://github.com/oswaldo-26/api-call>
+        - cd <api-call>  
 ##Step 2: Install Laravel Dependencies##
         composer install
 ##Step 3: Configure the Environment File##

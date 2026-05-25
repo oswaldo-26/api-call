@@ -6,7 +6,6 @@ Before running the project, make sure the following are installed:
 
 - PHP
 - Composer
-- Node.js and NPM
 - SQLite
 - HERD or any local server
 - Postman

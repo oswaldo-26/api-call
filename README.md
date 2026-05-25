@@ -25,13 +25,14 @@ Local Setup Instructions
 
 ### **Step 4: Generate Application Key**
 - php artisan key:generate
-##Step 5: Setup the SQLite Database##
-        touch database/database.sqlite
-        Open your created .env file in a text editor and ensure your database connection is explicitly set to use SQLite
-##Step 6: Run Database Migrations##
-        php artisan migrate
-##Step 7: Start the Laravel Server##
-        php artisan serve
+
+### **Step 5: Setup the SQLite Database#**
+- touch database/database.sqlite
+- Open your created .env file in a text editor and ensure your database connection is explicitly set to use SQLite
+### **Step 6: Run Database Migrations**
+- php artisan migrate
+### **Step 7: Start the Laravel Server**
+- php artisan serve
 ---
 ### Available HTTP Methods
 
